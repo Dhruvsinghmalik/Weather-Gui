@@ -40,7 +40,8 @@ The **Weather Data Fetcher** is a Python GUI application built using **Tkinter**
 5. A GUI window will appear. Enter the city name in the input box and click the **Fetch Weather** button to view the details.
 
 ## Example Screenshot
-*(You can include a screenshot here if desired.)*
+![](./image/interface.png)
+![](./image/Result.png)
 
 ## Error Handling
 - If no city name is entered, the application will display an error message: *"Please enter a city name!"*
